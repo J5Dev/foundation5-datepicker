@@ -23,8 +23,12 @@ http://foundation-datepicker.peterbeno.com/example/example.html
 
 3. &lt;link&gt; and &lt;script&gt; them into your page 
 
-4. to see the arrows and icons, please include **font-awesome**:
+4. to see the arrows and icons, please include either **font-awesome** or Zurb's Foundation font icons (v3 included):
 
     &lt;link href=&quot;http://netdna.bootstrapcdn.com/font-awesome/3.0.2/css/font-awesome.css&quot; rel=&quot;stylesheet&quot;&gt;
+    
+    or
+    
+    &lt;link href=&quot;/css/foundation-icons.css&quot; rel=&quot;stylesheet&quot;&gt;
 	
 
